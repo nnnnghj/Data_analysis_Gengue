@@ -1,0 +1,40 @@
+聚类 0 特点:
+- 平均风险评分: 54.43
+- 包含地区数量: 1
+- 显著特征:
+  • High Season Avg Cases: 3561.33
+  • Dengue Cases Std: 1936.96
+  • Dengue Cases Mean: 1932.77
+- 包含地区: NCR
+
+
+聚类 1 特点:
+- 平均风险评分: 15.61
+- 包含地区数量: 8
+- 显著特征:
+  • High Season Avg Cases: 1411.50
+  • Dengue Cases Std: 857.14
+  • Dengue Cases Mean: 774.89
+- 包含地区: Region X, Region VIII, Region IX, Region I, Region II, Region XI, Region V, Region IV-B
+
+
+聚类 2 特点:
+- 平均风险评分: 47.79
+- 包含地区数量: 4
+- 显著特征:
+  • High Season Avg Cases: 4198.68
+  • Dengue Cases Std: 2458.52
+  • Dengue Cases Mean: 2176.25
+- 包含地区: Region IV-A, Region VI, Region III, Region VII
+
+
+聚类 3 特点:
+- 平均风险评分: 24.79
+- 包含地区数量: 4
+- 显著特征:
+  • High Season Avg Cases: 950.82
+  • Dengue Cases Mean: 571.73
+  • Dengue Cases Std: 503.73
+- 包含地区: Region XII, CAR, Region XIII, BARMM
+
+
